@@ -27,7 +27,7 @@ A C socket application for playing and recording ASCII drum sequences
 
 #### [C Shell](https://github.com/sharon-lin/shell-proj) | C
 
-Basic C shell implementation (forks and executes commands, parses multiple commands on one line, redirects using ><, pipes using |, etc.)
+Basic C shell implementation (forks and executes commands, parses multiple commands on one line, redirects using ><, etc.)
 
 ## 2016
 
