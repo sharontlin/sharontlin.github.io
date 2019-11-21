@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm a third-year [electrical engineering and computer science](https://www.eecs.mit.edu/) student at the [Massachusetts Institute of Technology](http://web.mit.edu/). I'm spending my fall semester at [Imperial College London](http://www.imperial.ac.uk/) studying artificial intelligence and computer architecture.
+I'm a third-year [electrical engineering and computer science](https://www.eecs.mit.edu/) student at the [Massachusetts Institute of Technology](http://web.mit.edu/). 
 
 I'm originally from New Jersey, but I later moved to New York where I went to [Stuyvesant High School](https://stuy.enschool.org/) and co-founded [StuyHacks](https://www.facebook.com/stuyhacks/). 
 
