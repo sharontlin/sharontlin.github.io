@@ -17,8 +17,8 @@ permalink: research
 
 ## projects
 
-goose <a href="https://github.com/tchajed/goose">link</a><br>
-bento <a href="https://github.com/returntocorp/bento">link</a><br> 
-flake8-flask <a href="https://pypi.org/project/flake8-flask/">link</a><br>
-pfff <a href="https://github.com/returntocorp/pfff">link</a><br>
-sgrep <a href="https://github.com/returntocorp/sgrep">link</a><br>
+goose <a href="https://github.com/tchajed/goose" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
+bento <a href="https://github.com/returntocorp/bento" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br> 
+flake8-flask <a href="https://pypi.org/project/flake8-flask/" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
+pfff <a href="https://github.com/returntocorp/pfff" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
+sgrep <a href="https://github.com/returntocorp/sgrep" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
