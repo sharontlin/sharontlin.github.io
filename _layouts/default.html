@@ -1,24 +1,33 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
 
-  {% include analytics.html %}
+  {% if site.theme_mode == 'markdown' %}
+  <body class="hack">
+  {% elsif site.theme_mode == 'standard' %}
+  <body class="standard">
+  {% elsif site.theme_mode == 'dark' %}
+  <body class="hack dark">
+  {% endif %}
 
-  <div class='js-off-canvas-container c-off-canvas-container'>
-    {% include header.html %}
+    <div class="container">
+      <div class="grid">
+        <aside class="cell -3of12" role="navigation">
+          {% include navigation.html %}
+        </aside>
 
-    {{ content }}
+        <main class="cell -9of12">
+          {{ content }}
+        </main>
+      </div>
 
-    {% include footer.html %}
-  </div>
+    
+      {% include footer.html %}
+    </div>
 
-  <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
-  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
-  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
-  <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
-</body>
+    
+  </body>
 
 </html>

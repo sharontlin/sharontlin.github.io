@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharon t lin</title>
+    <description>I'm the founder of Kourier and an undergrad at MIT, studying computer science + electrical engineering and literature. I'm also a digital media storyteller and prolific writer for the interwebs!
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Mar 2020 11:58:07 -0400</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2020 11:58:07 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Building A Better BitTorrent Client In Go</title>
+        <description>
+</description>
+        <pubDate>Fri, 17 Jan 2020 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/go/2020/01/17/bittorent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/go/2020/01/17/bittorent.html</guid>
+        
+        
+        <category>go</category>
+        
+      </item>
+    
+      <item>
+        <title>Exploring Early ’90s Video Game Architecture With Another World</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 Jan 2020 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/video-games/2020/01/16/another-world.html</link>
+        <guid isPermaLink="true">http://localhost:4000/video-games/2020/01/16/another-world.html</guid>
+        
+        
+        <category>video-games</category>
+        
+      </item>
+    
+      <item>
+        <title>Particle Accelerators That Fit On A Chip</title>
+        <description>
+</description>
+        <pubDate>Mon, 13 Jan 2020 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/physics/2020/01/13/slac.html</link>
+        <guid isPermaLink="true">http://localhost:4000/physics/2020/01/13/slac.html</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Magic-Angle Twisted Bilayer Graphene – Yes, That’s The Scientific Name</title>
+        <description>
+</description>
+        <pubDate>Thu, 26 Dec 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/physics/2019/12/26/graphene.html</link>
+        <guid isPermaLink="true">http://localhost:4000/physics/2019/12/26/graphene.html</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>The Birth Of The Modern Robot</title>
+        <description>
+</description>
+        <pubDate>Wed, 18 Dec 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/robotics/2019/12/18/modern-robots.html</link>
+        <guid isPermaLink="true">http://localhost:4000/robotics/2019/12/18/modern-robots.html</guid>
+        
+        
+        <category>robotics</category>
+        
+      </item>
+    
+      <item>
+        <title>The Story Of A Secret Underground Parisian Society</title>
+        <description>
+</description>
+        <pubDate>Tue, 03 Dec 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/hacking/2019/12/03/paris.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hacking/2019/12/03/paris.html</guid>
+        
+        
+        <category>hacking</category>
+        
+      </item>
+    
+      <item>
+        <title>A Division In Voltage Standards</title>
+        <description>
+</description>
+        <pubDate>Wed, 27 Nov 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/electronics/2019/11/27/voltage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/electronics/2019/11/27/voltage.html</guid>
+        
+        
+        <category>electronics</category>
+        
+      </item>
+    
+      <item>
+        <title>The Golden Age Of Ever-Changing Computer Architecture</title>
+        <description>
+</description>
+        <pubDate>Tue, 26 Nov 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/computers/2019/11/26/architecture.html</link>
+        <guid isPermaLink="true">http://localhost:4000/computers/2019/11/26/architecture.html</guid>
+        
+        
+        <category>computers</category>
+        
+      </item>
+    
+      <item>
+        <title>Useful Registers in Assembly</title>
+        <description>
+</description>
+        <pubDate>Fri, 04 Jan 2019 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/computers/2019/01/04/registers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/computers/2019/01/04/registers.html</guid>
+        
+        
+        <category>computers</category>
+        
+      </item>
+    
+      <item>
+        <title>FPGAs, SoCs, Microcontrollers— A Quick Rundown of IoT Devices</title>
+        <description>
+</description>
+        <pubDate>Tue, 25 Dec 2018 19:18:23 -0500</pubDate>
+        <link>http://localhost:4000/computers/2018/12/25/iot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/computers/2018/12/25/iot.html</guid>
+        
+        
+        <category>computers</category>
+        
+      </item>
+    
+  </channel>
+</rss>

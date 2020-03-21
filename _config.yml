@@ -6,43 +6,59 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Sharon Lin
-email:       'sharonl@mit.edu'
-description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         ''
-twitter:     'https://twitter.com/sharontlin'
-github:      'https://github.com/sharon-lin'
-instagram:   'http://instagram.com/sharontlin'
-linkedin:    'https://www.linkedin.com/in/sharontlin/'
+title: sharon t lin
+description: > # this means to ignore newlines until "baseurl:"
+  I'm the founder of Kourier and an undergrad at MIT, studying computer science + electrical engineering and literature. I'm also a digital media storyteller and prolific writer for the interwebs!
+repository: https://github.com/wemake-services/jekyll-theme-hackcss
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: http://sharontlin.github.io  # the base hostname & protocol for your site
 
-markdown:  kramdown
-permalink: pretty
-paginate:  10
+# Build settings
+markdown: kramdown
 
+# Sass settings
 sass:
   style: compressed
 
-plugins:
-  - jekyll-paginate
-  - jekyll/tagging
+# Theme settings
+theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 
-include:
-  - _pages
+# Customizations
+your_name: sharon t lin 
+email: sharonl@mit.edu
 
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
+navigation:
+  - text: academic
+    url: /academic
+  - text: media + art
+    url: /media
+  - text: writing
+    url: /writing
+  - text: research + work
+    url: /research
 
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+projects:
+  - name: git-secret
+    description: <b>A bash-tool</b> to store your private data inside a git repository.
+    link: https://sobolevn.github.io/git-secret
+    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
+  - name: awesome-cryptography
+    description: A curated list of cryptography resources and links.
+    link: https://github.com/sobolevn/awesome-cryptography
+    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
+  - name: ecto_autoslug_field
+    description: Automatically creates slugs for your Ecto models.
+    link: https://github.com/sobolevn/ecto_autoslug_field
+    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
+  - name: django-split-settings
+    description: Organize Django settings into multiple files and directories. Easily override and modify setting
+    link: https://github.com/sobolevn/django-split-settings
+    image: https://pbs.twimg.com/profile_images/751426570607271937/vGxpniun_400x400.jpg
 
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+social:
+  - service: github
+    username: sobolevn
+    link: https://github.com/sobolevn
+  - service: twitter
+    username: sobolevn
+    link: https://twitter.com/sobolevn
