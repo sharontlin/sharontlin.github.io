@@ -24,6 +24,7 @@ permalink: academic
 ## lit + writing
 
 - classics of western philosophy <span style="color:gray">(24.01)</span>
+- that's just semantics: the search for meaning <span style="color:gray">(24.a03)</span>
 - being, thinking, doing: ethics in your life <span style="color:gray">(24.191)</span>
 - writing about the modern city <span style="color:gray">(11.s948)</span>
 - design anthropology - salvador, brazil <span style="color:gray">(des336)</span>
