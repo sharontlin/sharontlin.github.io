@@ -25,8 +25,11 @@ permalink: academic
 
 - classics of western philosophy <span style="color:gray">(24.01)</span>
 - writing about the modern city <span style="color:gray">(11.s948)</span>
-- design anthropology <span style="color:gray">(des336)</span>
+- design anthropology - salvador, brazil <span style="color:gray">(des336)</span>
+- d-lab: development - guatemala <span style="color:gray">(11.025)</span>
 - studies in drama <span style="color:gray">(21l.703)</span>
+- exploring globalization through chinese food <span style="color:gray">(21g.012)</span>
+- being, thinking, doing: ethics in your life <span style="color:gray">(24.191)</span>
 - the bible <span style="color:gray">(21l.458)</span>
 - the film experience <span style="color:gray">(21l.011)</span>
 
