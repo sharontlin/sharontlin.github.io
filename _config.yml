@@ -8,7 +8,7 @@
 # Site settings
 title: sharon t lin
 description: > # this means to ignore newlines until "baseurl:"
-  I'm the founder of Kourier and an undergrad at MIT, studying computer science + electrical engineering and literature. I'm also a digital media storyteller and prolific writer for the interwebs!
+  I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: http://sharontlin.github.io  # the base hostname & protocol for your site
