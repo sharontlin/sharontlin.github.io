@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sharon t lin</title>
-    <description>I'm the founder of Kourier and an undergrad at MIT, studying computer science + electrical engineering and literature. I'm also a digital media storyteller and prolific writer for the interwebs!
+    <description>I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Mar 2020 15:22:19 -0400</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2020 15:22:19 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2020 14:55:15 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2020 14:55:15 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
