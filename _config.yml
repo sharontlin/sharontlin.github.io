@@ -28,8 +28,6 @@ your_name: sharon t lin
 email: sharonl@mit.edu
 
 navigation:
-  - text: background
-    url: /background
   - text: academic
     url: /academic
   - text: writing
