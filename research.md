@@ -22,7 +22,3 @@ bento <a href="https://github.com/returntocorp/bento" style="color: gray; border
 flake8-flask <a href="https://pypi.org/project/flake8-flask/" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
 pfff <a href="https://github.com/returntocorp/pfff" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
 sgrep <a href="https://github.com/returntocorp/sgrep" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
-
-## projects
-
-<a href="https://www.notion.so/sharontlin/feded8034c1e4b21a408a739f0167e6b?v=322aee05e5834a5b82b3b5a065988181">link</a>
