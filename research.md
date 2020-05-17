@@ -5,7 +5,7 @@ permalink: research
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## work</b>
 
-🤖 microsoft <span style="color:gray">(incoming summer 2020)</span><br>
+🤖 microsoft <span style="color:gray">(summer 2020)</span><br>
 🦆 csail, pdos <span style="color:gray">(spring 2020)</span><br>
 🌳 r2c <span style="color:gray">(winter 2020)</span><br>
 🦅 cisco meraki <span style="color:gray">(summer 2019)</span><br>
