@@ -4,10 +4,10 @@
     <title>sharon t lin</title>
     <description>I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 May 2020 21:18:48 -0400</pubDate>
-    <lastBuildDate>Sat, 16 May 2020 21:18:48 -0400</lastBuildDate>
+    <link>http://sharontlin.github.io/</link>
+    <atom:link href="http://sharontlin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 May 2020 21:28:46 -0400</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 21:28:46 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Mon, 04 May 2020 20:18:23 -0400</pubDate>
-        <link>http://localhost:4000/deep/learning/2020/05/04/deep-learning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/deep/learning/2020/05/04/deep-learning.html</guid>
+        <link>http://sharontlin.github.io/deep/learning/2020/05/04/deep-learning.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/deep/learning/2020/05/04/deep-learning.html</guid>
         
         
         <category>deep</category>
@@ -30,8 +30,8 @@
         <description>
 </description>
         <pubDate>Fri, 17 Jan 2020 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/go/2020/01/17/bittorent.html</link>
-        <guid isPermaLink="true">http://localhost:4000/go/2020/01/17/bittorent.html</guid>
+        <link>http://sharontlin.github.io/go/2020/01/17/bittorent.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/go/2020/01/17/bittorent.html</guid>
         
         
         <category>go</category>
@@ -43,8 +43,8 @@
         <description>
 </description>
         <pubDate>Thu, 16 Jan 2020 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/video-games/2020/01/16/another-world.html</link>
-        <guid isPermaLink="true">http://localhost:4000/video-games/2020/01/16/another-world.html</guid>
+        <link>http://sharontlin.github.io/video-games/2020/01/16/another-world.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/video-games/2020/01/16/another-world.html</guid>
         
         
         <category>video-games</category>
@@ -56,8 +56,8 @@
         <description>
 </description>
         <pubDate>Mon, 13 Jan 2020 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/physics/2020/01/13/slac.html</link>
-        <guid isPermaLink="true">http://localhost:4000/physics/2020/01/13/slac.html</guid>
+        <link>http://sharontlin.github.io/physics/2020/01/13/slac.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/physics/2020/01/13/slac.html</guid>
         
         
         <category>physics</category>
@@ -69,8 +69,8 @@
         <description>
 </description>
         <pubDate>Thu, 26 Dec 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/physics/2019/12/26/graphene.html</link>
-        <guid isPermaLink="true">http://localhost:4000/physics/2019/12/26/graphene.html</guid>
+        <link>http://sharontlin.github.io/physics/2019/12/26/graphene.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/physics/2019/12/26/graphene.html</guid>
         
         
         <category>physics</category>
@@ -82,8 +82,8 @@
         <description>
 </description>
         <pubDate>Wed, 18 Dec 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/robotics/2019/12/18/modern-robots.html</link>
-        <guid isPermaLink="true">http://localhost:4000/robotics/2019/12/18/modern-robots.html</guid>
+        <link>http://sharontlin.github.io/robotics/2019/12/18/modern-robots.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/robotics/2019/12/18/modern-robots.html</guid>
         
         
         <category>robotics</category>
@@ -95,8 +95,8 @@
         <description>
 </description>
         <pubDate>Tue, 03 Dec 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/hacking/2019/12/03/paris.html</link>
-        <guid isPermaLink="true">http://localhost:4000/hacking/2019/12/03/paris.html</guid>
+        <link>http://sharontlin.github.io/hacking/2019/12/03/paris.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/hacking/2019/12/03/paris.html</guid>
         
         
         <category>hacking</category>
@@ -108,8 +108,8 @@
         <description>
 </description>
         <pubDate>Wed, 27 Nov 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/electronics/2019/11/27/voltage.html</link>
-        <guid isPermaLink="true">http://localhost:4000/electronics/2019/11/27/voltage.html</guid>
+        <link>http://sharontlin.github.io/electronics/2019/11/27/voltage.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/electronics/2019/11/27/voltage.html</guid>
         
         
         <category>electronics</category>
@@ -121,8 +121,8 @@
         <description>
 </description>
         <pubDate>Tue, 26 Nov 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/computers/2019/11/26/architecture.html</link>
-        <guid isPermaLink="true">http://localhost:4000/computers/2019/11/26/architecture.html</guid>
+        <link>http://sharontlin.github.io/computers/2019/11/26/architecture.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/computers/2019/11/26/architecture.html</guid>
         
         
         <category>computers</category>
@@ -134,8 +134,8 @@
         <description>
 </description>
         <pubDate>Fri, 04 Jan 2019 19:18:23 -0500</pubDate>
-        <link>http://localhost:4000/computers/2019/01/04/registers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/computers/2019/01/04/registers.html</guid>
+        <link>http://sharontlin.github.io/computers/2019/01/04/registers.html</link>
+        <guid isPermaLink="true">http://sharontlin.github.io/computers/2019/01/04/registers.html</guid>
         
         
         <category>computers</category>
