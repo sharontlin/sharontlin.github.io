@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: sharon t lin 
@@ -34,6 +34,8 @@ navigation:
     url: /writing
   - text: research + work
     url: /research
+  - text: portfolio
+    url: https://www.notion.so/a1abfc67908b429397e636e37f2d461f?v=add91dc8ba814c0fac1d2f2ce11198f3
 
 projects:
   - name: git-secret

@@ -3,7 +3,7 @@ layout: default
 permalink: academic
 ---
 
-## computer science
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## computer science</b>
 
 - advanced computer architecture <span style="color:gray">(6.823)</span>
 - network & computer security <span style="color:gray">(6.857)</span>
@@ -21,7 +21,7 @@ permalink: academic
 - interconnected embedded systems <span style="color:gray">(6.08)</span>
 - differential equations <span style="color:gray">(18.03)</span>
 
-## teaching
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## teaching</b>
 
 - engineering molecular marvels <span style="color:gray">(10.000)</span>
 - interconnected embedded systems <span style="color:gray">(6.08)</span>

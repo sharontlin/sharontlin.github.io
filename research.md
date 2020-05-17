@@ -3,7 +3,7 @@ layout: default
 permalink: research
 ---
 
-## work 
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## work</b>
 
 🤖 microsoft <span style="color:gray">(incoming summer 2020)</span><br>
 🦆 csail, pdos <span style="color:gray">(spring 2020)</span><br>
@@ -15,10 +15,10 @@ permalink: research
 🦑 mit media lab, design fiction <span style="color:gray">(spring 2018)</span><br>
 🌑 codeco <span style="color:gray">(2016, founder)</span>
 
-## open source
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## open source</b>
 
-goose <a href="https://github.com/tchajed/goose" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
-bento <a href="https://github.com/returntocorp/bento" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br> 
-flake8-flask <a href="https://pypi.org/project/flake8-flask/" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
-pfff <a href="https://github.com/returntocorp/pfff" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
-sgrep <a href="https://github.com/returntocorp/sgrep" style="color: gray; border-bottom: 0px; background-color:white;">link</a><br>
+<a href="https://github.com/tchajed/goose" style="color:white; border-bottom: 0px; background-color:black;">goose</a><br>
+<a href="https://github.com/returntocorp/bento" style="color:white; border-bottom: 0px; background-color:black;">bento</a><br> 
+<a href="https://pypi.org/project/flake8-flask/" style="color:white; border-bottom: 0px; background-color:black;">flake8-flask</a><br>
+<a href="https://github.com/returntocorp/pfff" style="color:white; border-bottom: 0px; background-color:black;">pfff</a><br>
+<a href="https://github.com/returntocorp/sgrep" style="color:white; border-bottom: 0px; background-color:black;">sgrep</a><br>

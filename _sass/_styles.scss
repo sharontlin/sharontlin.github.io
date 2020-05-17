@@ -33,6 +33,12 @@
     }
   }
 
+  &-pop:hover {
+    color: white !important;
+    cursor: pointer;
+    background-color: #ff2e88;
+  }
+
   // examples.html
 
   &-media-shift {
