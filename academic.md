@@ -16,7 +16,10 @@ permalink: academic
 - pokerbots <span style="color:gray">(6.176)</span>
 - ethics for engineers <span style="color:gray">(6.9041)</span>
 - deep learning <span style="color:gray">(6.s191)</span>
+- intro to quantum computing <span style="color:gray">(6.s089)</span>
+- circuits & electronics <span style="color:gray">(6.002)</span>
 - probabilistic systems analysis and applied probability <span style="color:gray">(6.041)</span>
+- intro to data science <span style="color:gray">(6.s077)</span>
 - computation structures <span style="color:gray">(6.004)</span>
 - interconnected embedded systems <span style="color:gray">(6.08)</span>
 - differential equations <span style="color:gray">(18.03)</span>
