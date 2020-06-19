@@ -17,6 +17,7 @@ permalink: research
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## open source</b>
 
+<a href="https://github.com/sharontlin/ctf-writeups" style="color:white; border-bottom: 0px; background-color:black;">ctf writeups</a><br>
 <a href="https://github.com/tree-sitter/tree-sitter-java" style="color:white; border-bottom: 0px; background-color:black;">tree-sitter</a><br>
 <a href="https://pypi.org/project/flake8-flask/" style="color:white; border-bottom: 0px; background-color:black;">flake8-flask</a><br>
 <a href="https://github.com/returntocorp/pfff" style="color:white; border-bottom: 0px; background-color:black;">pfff</a><br>
