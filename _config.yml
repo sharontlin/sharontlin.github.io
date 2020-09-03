@@ -28,14 +28,12 @@ your_name: sharon t lin
 email: sharonl@mit.edu
 
 navigation:
-  - text: academic
-    url: /academic
-  - text: writing
+  - text: blog
     url: /writing
-  - text: research + work
-    url: /research
-  - text: portfolio
-    url: https://www.notion.so/sharontlin/Sharon-Lin-0968f71e17a44385b2046043a197ebd7
+  - text: fun stuff
+    url: /fun-stuff
+  - text: photos
+    url: /photos
 
 projects:
   - name: git-secret

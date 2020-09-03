@@ -14,7 +14,7 @@
         content="I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
 ">
   <link rel="canonical"
-        href="http://sharontlin.github.io/" />
+        href="http://localhost:4000/" />
 
   <!-- hack.css -->
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/hack.css" />
@@ -30,7 +30,7 @@
 
   <!-- Feed -->
   <link rel="alternate" type="application/rss+xml" title="sharon t lin"
-        href="http://sharontlin.github.io/feed.xml" />
+        href="http://localhost:4000/feed.xml" />
 
   <!-- Add seo with 'jekyll-seo' plugin! -->
 </head>
@@ -45,29 +45,24 @@
       <div class="grid">
         <aside class="cell -3of12" role="navigation">
           <div class="t-hackcss-navigation">
-  <h2 class="t-hackcss-big-title"><a href="/" style="border-bottom: 0px; background-color:black;">sharon t lin</a></h2>
+  <h2 class="t-hackcss-big-title"><a href="/" class="black" style="border-bottom: 0px;">sharon t lin</a></h2>
 
   <nav class="menu" role="menubar">
     
     
       <a class="menu-item "
-        role="menuitem" href="/academic" title="">
-        academic <div class="pull-right">»</div>
-      </a>
-    
-      <a class="menu-item "
         role="menuitem" href="/writing" title="">
-        writing <div class="pull-right">»</div>
+        blog <div class="pull-right">»</div>
       </a>
     
       <a class="menu-item "
-        role="menuitem" href="/research" title="">
-        research + work <div class="pull-right">»</div>
+        role="menuitem" href="/fun-stuff" title="">
+        fun stuff <div class="pull-right">»</div>
       </a>
     
       <a class="menu-item "
-        role="menuitem" href="https://www.notion.so/a1abfc67908b429397e636e37f2d461f?v=add91dc8ba814c0fac1d2f2ce11198f3" title="">
-        portfolio <div class="pull-right">»</div>
+        role="menuitem" href="/photos" title="">
+        photos <div class="pull-right">»</div>
       </a>
     
   </nav>
@@ -85,17 +80,15 @@
 
      
 
-    I'm <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">Sharon Lin</b>, a writer and software developer. I've hopped around a couple of places (New Jersey, Boston, London, San Francisco, Hong Kong) but I'm currently settled in Queens, NY.  
+    I'm <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">Sharon Lin</b>, a software engineer and writer. I'm finishing my bachelors in electrical engineering and computer science at MIT.  
 <br><br>
-    This summer, I'll be interning with Microsoft. Previously, I was at <a href="https://returntocorp.com/">r2c</a>, <a href="https://meraki.cisco.com/">Cisco Meraki</a>, <a href="https://www.ll.mit.edu/">Lincoln Laboratory</a>, <a href="https://www.trailofbits.com/">Trail of Bits</a>, and <a href="https://tulip.co/">Tulip</a>.  
-<br><br>
-    I'm in my third year at MIT where I am studying electrical engineering & computer science and film studies. 
+    I've previously worked on time series analysis at <a href="https://microsoft.com/">Microsoft</a>, static analysis at <a href="https://returntocorp.com/">r2c</a>, and performance engineering at <a href="https://meraki.cisco.com/">Cisco Meraki</a>.   
     <br><br>
-    Aside from software, I enjoy traveling and writing. I've backpacked across Europe and Southeast Asia and worked as a <a href="https://mlh.io/">Major League Hacking</a> Coach, where empowered student organizers at hackathons across North America.
+    Aside from software, I've also backpacked across Europe and Southeast Asia and worked as a <a href="https://mlh.io/">Major League Hacking</a> Coach, where I helped out hackathon organizers across North America. My current interests include Asian indie rock, pixel art, flash fiction, and <a href="https://skribbl.io/">skribbl.io</a>. 
     <br><br>    
-    I write about technology for <a href="hackaday.com/">Hackaday</a>, <a href="https://hackernoon.com/">Hacker Noon</a>, and <a href="https://towardsdatascience.com/">Towards Data Science</a>. 
+    I occasionally write for <a href="hackaday.com/">Hackaday</a>, <a href="https://hackernoon.com/">Hacker Noon</a>, and <a href="https://towardsdatascience.com/">Towards Data Science</a>. 
 
-    Feel free to reach me at sharonl [at] mit [dot] edu.
+    Feel free to reach me at sharonl [at] mit [dot] edu!
 
   </section>
 
@@ -111,12 +104,34 @@
   <div class="grid t-hackcss-sm-reversed-grid">
     <div class="cell -12of12">
         <p style="color:gray">
-          <a href="https://linkedin.com/in/sharontlin" style="border-bottom: 0px; background-color:black;">linkedin</a> | 
-          <a href="https://github.com/sharontlin" style="border-bottom: 0px; background-color:black;">github</a> | 
-          <a href="https://twitter.com/sharontlin" style="border-bottom: 0px; background-color:black;">twitter</a> 
-          <span style="float: right; width: 50%; text-align: right;">design based on <a href="https://github.com/wemake-services/jekyll-theme-hackcss" style="border-bottom: 0px; background-color:black;">hackcss</a></span>
+          <a href="#" onclick="change_color()" class="black" style="border-bottom: 0px;">toggle</a> | 
+          <a href="https://linkedin.com/in/sharontlin" class="black" style="border-bottom: 0px;">linkedin</a> | 
+          <a href="https://github.com/sharontlin" class="black" style="border-bottom: 0px;">github</a> | 
+          <a href="https://twitter.com/sharontlin" class="black" style="border-bottom: 0px;">twitter</a> 
+          <span style="float: right; width: 50%; text-align: right;">design based on <a href="https://github.com/wemake-services/jekyll-theme-hackcss" class="black" style="border-bottom: 0px;">hackcss</a></span>
         </p>
     </div>
+
+    <script>
+      function change_color() {
+        var color = document.getElementsByTagName('body')[0].className;
+        if (color == 'hack') {
+          document.getElementsByTagName('body')[0].className = 'hack dark';
+          var black = document.getElementsByClassName("white");
+          var l = black.length;
+          for(var i=0;i<l;i++) {
+            black[0].className = 'black'
+          }
+        } else {
+          document.getElementsByTagName('body')[0].className = 'hack';
+          var white = document.getElementsByClassName("black");
+          var l = white.length;
+          for(var i=0;i<l;i++) {
+            white[0].className = 'white';
+          }
+        }
+      }
+    </script>
 
 </footer>
     </div>

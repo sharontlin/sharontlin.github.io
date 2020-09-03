@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $spacing-unit:     10px;
 $image-size:       50px;
@@ -13,8 +11,6 @@ $icon-size:        15px;
 
 // Sizes
 $on-palm:          768px;
-
-
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -29,10 +25,16 @@ $on-palm:          768px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "styles",
         "highlight"
 ;
+
+.black {
+    background-color:black;
+}
+
+.white {
+    background-color:white;
+}

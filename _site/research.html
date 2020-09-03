@@ -14,7 +14,7 @@
         content="I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
 ">
   <link rel="canonical"
-        href="http://sharontlin.github.io/research" />
+        href="http://localhost:4000/research" />
 
   <!-- hack.css -->
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/hack.css" />
@@ -30,7 +30,7 @@
 
   <!-- Feed -->
   <link rel="alternate" type="application/rss+xml" title="sharon t lin"
-        href="http://sharontlin.github.io/feed.xml" />
+        href="http://localhost:4000/feed.xml" />
 
   <!-- Add seo with 'jekyll-seo' plugin! -->
 </head>
@@ -45,29 +45,24 @@
       <div class="grid">
         <aside class="cell -3of12" role="navigation">
           <div class="t-hackcss-navigation">
-  <h2 class="t-hackcss-big-title"><a href="/" style="border-bottom: 0px; background-color:black;">sharon t lin</a></h2>
+  <h2 class="t-hackcss-big-title"><a href="/" class="black" style="border-bottom: 0px;">sharon t lin</a></h2>
 
   <nav class="menu" role="menubar">
     
     
       <a class="menu-item "
-        role="menuitem" href="/academic" title="">
-        academic <div class="pull-right">»</div>
-      </a>
-    
-      <a class="menu-item "
         role="menuitem" href="/writing" title="">
-        writing <div class="pull-right">»</div>
-      </a>
-    
-      <a class="menu-item active"
-        role="menuitem" href="/research" title="">
-        research + work <div class="pull-right">»</div>
+        blog <div class="pull-right">»</div>
       </a>
     
       <a class="menu-item "
-        role="menuitem" href="https://www.notion.so/a1abfc67908b429397e636e37f2d461f?v=add91dc8ba814c0fac1d2f2ce11198f3" title="">
-        portfolio <div class="pull-right">»</div>
+        role="menuitem" href="/fun-stuff" title="">
+        fun stuff <div class="pull-right">»</div>
+      </a>
+    
+      <a class="menu-item "
+        role="menuitem" href="/photos" title="">
+        photos <div class="pull-right">»</div>
       </a>
     
   </nav>
@@ -89,13 +84,6 @@
 🦑 mit media lab, design fiction <span style="color:gray">(spring 2018)</span><br />
 🌑 codeco <span style="color:gray">(2016, founder)</span></p>
 
-<p><b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## open source</b></p>
-
-<p><a href="https://github.com/tchajed/goose" style="color:white; border-bottom: 0px; background-color:black;">goose</a><br />
-<a href="https://github.com/returntocorp/bento" style="color:white; border-bottom: 0px; background-color:black;">bento</a><br /> 
-<a href="https://pypi.org/project/flake8-flask/" style="color:white; border-bottom: 0px; background-color:black;">flake8-flask</a><br />
-<a href="https://github.com/returntocorp/pfff" style="color:white; border-bottom: 0px; background-color:black;">pfff</a><br />
-<a href="https://github.com/returntocorp/sgrep" style="color:white; border-bottom: 0px; background-color:black;">sgrep</a><br /></p>
 
         </main>
       </div>
@@ -106,12 +94,34 @@
   <div class="grid t-hackcss-sm-reversed-grid">
     <div class="cell -12of12">
         <p style="color:gray">
-          <a href="https://linkedin.com/in/sharontlin" style="border-bottom: 0px; background-color:black;">linkedin</a> | 
-          <a href="https://github.com/sharontlin" style="border-bottom: 0px; background-color:black;">github</a> | 
-          <a href="https://twitter.com/sharontlin" style="border-bottom: 0px; background-color:black;">twitter</a> 
-          <span style="float: right; width: 50%; text-align: right;">design based on <a href="https://github.com/wemake-services/jekyll-theme-hackcss" style="border-bottom: 0px; background-color:black;">hackcss</a></span>
+          <a href="#" onclick="change_color()" class="black" style="border-bottom: 0px;">toggle</a> | 
+          <a href="https://linkedin.com/in/sharontlin" class="black" style="border-bottom: 0px;">linkedin</a> | 
+          <a href="https://github.com/sharontlin" class="black" style="border-bottom: 0px;">github</a> | 
+          <a href="https://twitter.com/sharontlin" class="black" style="border-bottom: 0px;">twitter</a> 
+          <span style="float: right; width: 50%; text-align: right;">design based on <a href="https://github.com/wemake-services/jekyll-theme-hackcss" class="black" style="border-bottom: 0px;">hackcss</a></span>
         </p>
     </div>
+
+    <script>
+      function change_color() {
+        var color = document.getElementsByTagName('body')[0].className;
+        if (color == 'hack') {
+          document.getElementsByTagName('body')[0].className = 'hack dark';
+          var black = document.getElementsByClassName("white");
+          var l = black.length;
+          for(var i=0;i<l;i++) {
+            black[0].className = 'black'
+          }
+        } else {
+          document.getElementsByTagName('body')[0].className = 'hack';
+          var white = document.getElementsByClassName("black");
+          var l = white.length;
+          for(var i=0;i<l;i++) {
+            white[0].className = 'white';
+          }
+        }
+      }
+    </script>
 
 </footer>
     </div>
