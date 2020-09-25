@@ -29,9 +29,11 @@ email: sharonl@mit.edu
 
 navigation:
   - text: blog
+    url: /blog
+  - text: projects
+    url: /projects
+  - text: writing
     url: /writing
-  - text: fun stuff
-    url: /fun-stuff
   - text: photos
     url: /photos
 

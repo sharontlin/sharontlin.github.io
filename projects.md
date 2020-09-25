@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: fun-stuff
+permalink: projects
 ---
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## projects</b>
