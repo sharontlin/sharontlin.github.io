@@ -5,6 +5,8 @@ permalink: projects
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## projects</b>
 
+<a href="https://easygov.app">EasyGov</a>: a website for filling out translated government forms<br/>
+<a href="https://towardsdatascience.com/building-a-fiction-generator-worthy-of-the-new-yorker-part-one-f4bcfa87dea0">New Yorker AI</a>: an RNN that generates contemporary short stories<br/>
 <a href="https://github.com/sharontlin/sourcechecker">SourceChecker</a>: a Chrome extension that checks for links for reputability<br>
 <a href="https://technotopia.netlify.app/">Technotopia</a>: a browser experiment in three.js and glitch art<br>
 <a href="https://play.google.com/store/apps/details?id=com.wAsianDiabeticRecipes_11604275&hl=en_US">Asian Diabetic Recipes</a>: an Android app with diabetic-friendly Asian recipes<br>
