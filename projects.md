@@ -18,4 +18,5 @@ permalink: projects
 <a href="https://www.instagram.com/sharynnetravels/">Sharynne Travels</a>: documenting my travels during a semester in London<br>
 <a href="https://chrome.google.com/webstore/detail/hacker-news-tab/mlpjfhnajellhapbfmopedmdflnaejlj?hl=en">Hacker News Tab</a>: a Chrome extension to view HN in your new tab<br>
 <a href="https://stories.mlh.io/watch-what-you-eat-with-clarifai-71185734bc61">Nutrition AI</a>: a nutrition predictor built using the Clarifai API<br>
+<a href="https://photos.app.goo.gl/5oiHNijAqdRqftKr7">Progress Pics</a>: random photos of small maker projects in progress<br>
 
