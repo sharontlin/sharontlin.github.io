@@ -14,7 +14,7 @@ Sharon Lin is a Chinese-American writer living in New York City. Her work is pub
 "bedtime rituals", Rooted<br/>
 "when my grandmother sings", The Offing<br/>
 
-<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">prose</b><br/>
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">fiction</b><br/>
 "Swiftly", Penumbra<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">nonfiction</b><br/>
