@@ -5,8 +5,7 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## writing</b>
 
-<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">author bio</b><br/>
-Sharon Lin is a Chinese-American writer living in New York City. Her work is published in <i>The Offing</i>, <i>Penumbra</i>, <i>The Wave</i>, and has been recognized by the Alliance for Young Artists & Writers and Penguin Random House. She was previously a First Reader for Polyphony Lit and enjoys waking up early and petting Yorkshire Terriers. 
+sometime I write words.
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
 "Left Behind", Inlandia Journal (forthcoming)<br/>
