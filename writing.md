@@ -5,10 +5,8 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## writing</b>
 
-sometime I write words.
-
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
-"Left Behind", Inlandia Journal (forthcoming)<br/>
+"Left Behind", Inlandia Journal<br/>
 "black sugar and honey", The Wave<br/>
 "bedtime rituals", Rooted<br/>
 "when my grandmother sings", The Offing<br/>
