@@ -11,7 +11,6 @@ permalink: projects
 <a href="https://towardsdatascience.com/building-a-fiction-generator-worthy-of-the-new-yorker-part-one-f4bcfa87dea0">New Yorker AI</a>: an RNN that generates contemporary short stories<br/>
 <a href="https://stories.mlh.io/watch-what-you-eat-with-clarifai-71185734bc61">Nutrition AI</a>: a nutrition predictor built using the Clarifai API<br>
 <a href="https://easygov.app">EasyGov</a>: a website for filling out translated government forms<br/>
-<a href="https://play.google.com/store/apps/details?id=com.wAsianDiabeticRecipes_11604275&hl=en_US">Asian Diabetic Recipes</a>: an Android app with diabetic-friendly Asian recipes<br>
 <a href="https://sharontlin.itch.io/trapped-in-time">Trapped in Time</a>: an adventure game inspired by 20th c. British playwrights<br>
 <a href="https://covisual.netlify.app/">COVID-19 Illustrated</a>: illustrations and explanations of epidemiology terms<br/>
 <a href="https://observablehq.com/@sharontlin/caves-of-the-british-isles">Caves of the British Isles</a>: a data visualization of caves across the UK<br>
