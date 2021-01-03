@@ -7,10 +7,10 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
 "Left Behind", Inlandia Journal<br/>
-"black sugar and honey", The Wave<br/>
+"Black Sugar and Honey", The Wave<br/>
 "Royal King", Minute Magazine<br/>
-"bedtime rituals", Rooted<br/>
-"when my grandmother sings", The Offing<br/>
+"Bedtime Rituals", Rooted<br/>
+"When My Grandmother Sings", The Offing<br/>
 "A Footnote on a Hollywood Blockbuster", Bill Moyers<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">fiction</b><br/>
