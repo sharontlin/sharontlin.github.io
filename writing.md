@@ -19,7 +19,7 @@ permalink: writing
 <a style="color:#cccccc;border-bottom:0px;" href="https://kidspiritonline.com/magazine/the-word/a-buddhist-theory-of-language/"><b>A Buddhist Theory of Language</b></a> (KidSpirit, 2015)<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">miscellaneous</b><br/>
-<b>Follow Your Nose</b> in Design and Science (Bloomsbury, 2021, forthcoming)<br/>
+<b>Follow Your Nose</b> in <i>Design and Science</i> (Bloomsbury, 2021, forthcoming)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/350605"><b>Interview with Judith Selvidge</b></a> (Margaret MacVicar Memorial AMITA Oral History Project, 2020)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/350607"><b>Interview with Mary Otis Stevens</b></a> (Margaret MacVicar Memorial AMITA Oral History Project, 2019)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/338935"><b>Interview with Elsa Garmire</b></a> (Margaret MacVicar Memorial AMITA Oral History Project, 2019)<br/>
