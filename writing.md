@@ -6,16 +6,7 @@ permalink: writing
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## writing</b>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
-"Left Behind", Inlandia Journal<br/>
-"Black Sugar and Honey", The Wave<br/>
-"Royal King", Minute Magazine<br/>
-"Bedtime Rituals", Rooted<br/>
-"When My Grandmother Sings", The Offing<br/>
-"A Footnote on a Hollywood Blockbuster", Bill Moyers<br/>
-
-<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">fiction</b><br/>
-"Swiftly", Penumbra<br/>
+<a href="https://www.waveartsmagazine.com/quaranzine-blog/black-sugar-and-honey">"Black Sugar and Honey"</a>, The Wave<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">nonfiction</b><br/>
-"The Story Of An Underground Parisian Society", Hackaday<br/>
-"How A Secret Gaming Scene Emerged In Communist East Germany", Hackaday<br/>
+<a href="https://hackaday.com/2019/12/04/the-story-of-a-secret-underground-parisian-society/">"The Story Of An Underground Parisian Society"</a>, Hackaday<br/>
