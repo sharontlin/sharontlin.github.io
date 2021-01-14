@@ -12,7 +12,6 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">nonfiction</b><br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://hackaday.com/2019/12/04/the-story-of-a-secret-underground-parisian-society/"><b>The Story Of An Underground Parisian Society</b></a> (Hackaday, 2019)<br/>
-<a style="color:#cccccc;border-bottom:0px;" href="https://kidspiritonline.com/magazine/the-word/a-buddhist-theory-of-language/"><b>A Buddhist Theory of Language</b></a> (KidSpirit, 2015)<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">miscellaneous</b><br/>
 <b>Follow Your Nose</b> in <i>Design and Science</i> (Bloomsbury, 2021, forthcoming)<br/>
