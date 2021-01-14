@@ -18,4 +18,3 @@ permalink: writing
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/350605"><b>Interview with Judith Selvidge</b></a> (AMITA Oral History Project, 2020)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/350607"><b>Interview with Mary Otis Stevens</b></a> (AMITA Oral History Project, 2019)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://archivesspace.mit.edu/repositories/2/archival_objects/338935"><b>Interview with Elsa Garmire</b></a> (AMITA Oral History Project, 2019)<br/>
-<a style="color:#cccccc;border-bottom:0px;" href="https://vimeo.com/298883743"><b>Round One</b></a> (short film, 2018)<br/>
