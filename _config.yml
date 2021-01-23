@@ -8,7 +8,7 @@
 # Site settings
 title: sharon t lin
 description: > # this means to ignore newlines until "baseurl:"
-  I'm an undergrad at MIT, studying computer science + electrical engineering. I'm also interested in motion design and writing for the interwebs!
+  I'm a software engineer and writer from New York City.
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: http://sharontlin.github.io  # the base hostname & protocol for your site
@@ -37,28 +37,3 @@ navigation:
   - text: photos
     url: /photos
 
-projects:
-  - name: git-secret
-    description: <b>A bash-tool</b> to store your private data inside a git repository.
-    link: https://sobolevn.github.io/git-secret
-    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
-  - name: awesome-cryptography
-    description: A curated list of cryptography resources and links.
-    link: https://github.com/sobolevn/awesome-cryptography
-    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
-  - name: ecto_autoslug_field
-    description: Automatically creates slugs for your Ecto models.
-    link: https://github.com/sobolevn/ecto_autoslug_field
-    image: https://architectureprize.com/submit/uploads/91704/22-4404-18/full/a4e128623545af322f106486659c0c44.jpg
-  - name: django-split-settings
-    description: Organize Django settings into multiple files and directories. Easily override and modify setting
-    link: https://github.com/sobolevn/django-split-settings
-    image: https://pbs.twimg.com/profile_images/751426570607271937/vGxpniun_400x400.jpg
-
-social:
-  - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
-  - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
