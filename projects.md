@@ -5,7 +5,6 @@ permalink: projects
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## projects</b>
 
-<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">personal</b><br/>
 <a href="https://courses.csail.mit.edu/6.857/2020/projects/6-Vadari-Maccow-Lin-Baral.pdf">Password Manager Security</a>: security analysis of browser auto-fills<br>
 <a href="https://towardsdatascience.com/building-a-fiction-generator-worthy-of-the-new-yorker-part-one-f4bcfa87dea0">Flash Fiction AI</a>: an RNN for generating flash fiction<br/>
 <a href="https://github.com/sharontlin/skinscanner">Skin Scanner</a>: identify skin diseases using computer vision<br/>
@@ -16,9 +15,6 @@ permalink: projects
 <a href="https://github.com/sharontlin/sourcechecker">Source Checker</a>: check whether links to scientific articles are legit<br>
 <a href="https://github.com/sharontlin/fb-remove-sponsored">Remove Sponsored</a>: a Chrome extension to remove Facebook sponsored posts<br>
 <a href="https://chrome.google.com/webstore/detail/hacker-news-tab/mlpjfhnajellhapbfmopedmdflnaejlj?hl=en">Hacker News Tab</a>: a Chrome extension to view HN in your new tab<br>
-
-<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">open source</b><br/>
 <a href="https://github.com/microsoft/TypeScript">Goose</a>: a subset of Go with a semantics in Coq (contributor)<br>
 <a href="https://github.com/tree-sitter">Tree Sitter</a>: incremental parsing system for dev tools (contributor)<br>
 <a href="https://github.com/returntocorp/pfff">Pfff</a>: an OCaml API to write static analysis, dynamic analysis, etc. (contributor)<br>
-<a href="https://github.com/microsoft/TypeScript">Typescript</a>: typed JavaScript (mentor at Open Source Day vGHC)<br>
