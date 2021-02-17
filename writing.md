@@ -24,3 +24,4 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">recognition</b><br/>
 <b>Finalist</b> - Writers House Pittsburgh (2020)<br/>
+<b>Youth Poet Laureate</b> - New York City (2017)<br/>
