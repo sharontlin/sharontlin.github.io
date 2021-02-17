@@ -13,5 +13,10 @@ permalink: projects
 <a href="https://sharontlin.github.io/unemployment-quiz">Unemployment Quiz</a>: find out if you qualify for unemployment insurance<br/>
 <a href="https://observablehq.com/@sharontlin/caves-of-the-british-isles">Caves of the British Isles</a>: a data visualization of caves across the UK<br>
 <a href="https://github.com/sharontlin/sourcechecker">Source Checker</a>: check whether links to scientific articles are legit<br>
-<a href="https://github.com/sharontlin/fb-remove-sponsored">Remove Sponsored</a>: a Chrome extension to remove Facebook sponsored posts<br>
+<a href="https://github.com/sharontlin/fb-remove-sponsored">Remove Sponsored</a>: a tool for removing sponsored posts on Facebook<br>
 <a href="https://chrome.google.com/webstore/detail/hacker-news-tab/mlpjfhnajellhapbfmopedmdflnaejlj?hl=en">Hacker News Tab</a>: a Chrome extension to view HN in your new tab<br>
+
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">open source contributions</b><br/>
+<a href="https://github.com/tchajed/goose">Goose</a>: a subset of Go with a semantics in Coq<br>
+<a href="https://github.com/tree-sitter">Tree Sitter</a>: an incremental parsing system for dev tools<br>
+<a href="https://github.com/returntocorp/pfff">Pfff</a>: an OCaml API to write static analysis, dynamic analysis, etc.<br>
