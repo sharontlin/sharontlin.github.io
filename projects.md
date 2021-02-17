@@ -10,7 +10,7 @@ permalink: projects
 <a href="https://github.com/sharontlin/skinscanner">Skin Scanner</a>: identify skin diseases using computer vision<br/>
 <a href="https://stories.mlh.io/watch-what-you-eat-with-clarifai-71185734bc61">Nutrition AI</a>: a nutrition predictor built using the Clarifai API<br>
 <a href="https://easygov.app">EasyGov</a>: a website for filling out translated government forms<br/>
-<a href="http://www.unemploymentquiz.us/">Unemployment Quiz</a>: find out if you qualify for unemployment insurance<br/>
+<a href="https://sharontlin.github.io/unemployment-quiz">Unemployment Quiz</a>: find out if you qualify for unemployment insurance<br/>
 <a href="https://observablehq.com/@sharontlin/caves-of-the-british-isles">Caves of the British Isles</a>: a data visualization of caves across the UK<br>
 <a href="https://github.com/sharontlin/sourcechecker">Source Checker</a>: check whether links to scientific articles are legit<br>
 <a href="https://github.com/sharontlin/fb-remove-sponsored">Remove Sponsored</a>: a Chrome extension to remove Facebook sponsored posts<br>
