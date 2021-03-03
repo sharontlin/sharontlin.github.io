@@ -22,5 +22,6 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">recognition</b><br/>
 <b>Finalist</b> - Lumiere Review Writing Contest (2021)<br/>
+<b>Winner</b> - Vera List Prize for Writing (2020)<br/>
 <b>Finalist</b> - Writers House Pittsburgh (2020)<br/>
 New York City Youth Poet Laureate (2017)<br/>
