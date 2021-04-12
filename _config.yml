@@ -32,8 +32,6 @@ navigation:
     url: /blog
   - text: projects
     url: /projects
-  - text: writing
-    url: /writing
   - text: photos
     url: /photos
 
