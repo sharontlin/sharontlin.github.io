@@ -7,6 +7,7 @@ permalink: writing
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
 <b>"You Are Born an Amphibian"</b> - muntiny! mag, forthcoming (2021) <br/>
+<b>Electric Heart</b> - Ghost City Press, forthcoming (2021) <br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://medium.com/oyez-review/every-body-is-an-electric-body-by-sharon-lin-edd898e3f62f"><b>"every body is an electric body"</b></a> - The Oyez Review (2021)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://www.waveartsmagazine.com/quaranzine-blog/black-sugar-and-honey"><b>"Black Sugar and Honey"</b></a> - The Wave (2020)<br/>
 
