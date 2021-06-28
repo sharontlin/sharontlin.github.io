@@ -30,6 +30,8 @@ email: sharonl@mit.edu
 navigation:
   - text: blog
     url: /blog
+  - text: writing
+    url: /writing
   - text: projects
     url: /projects
   - text: photos
