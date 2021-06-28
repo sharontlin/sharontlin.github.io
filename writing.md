@@ -6,14 +6,16 @@ permalink: writing
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">## writing</b>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry</b><br/>
-<b>You Are Born an Amphibian</b> - muntiny! mag, forthcoming (2021) <br/>
-<a style="color:#cccccc;border-bottom:0px;" href="https://www.waveartsmagazine.com/quaranzine-blog/black-sugar-and-honey"><b>Black Sugar and Honey</b></a> - The Wave (2020)<br/>
-<b>The Only Path to the Shore</b> - Penmanship Books (2018)<br/>
-<b>On Universes Unexplored</b> in <i>Voices of the East Coast</i> - Penmanship Books (2017)<br/>
-<a style="color:#cccccc;border-bottom:0px;" href="https://theoffingmag.com/poetry/when-my-grandmother-sings/https://theoffingmag.com/poetry/when-my-grandmother-sings/"><b>When My Grandmother Sings</b></a> - The Offing (2017)<br/>
+<b>"You Are Born an Amphibian"</b> - muntiny! mag, forthcoming (2021) <br/>
+<a style="color:#cccccc;border-bottom:0px;" href="https://medium.com/oyez-review/every-body-is-an-electric-body-by-sharon-lin-edd898e3f62f"><b>"every body is an electric body"</b></a> - The Oyez Review (2021)<br/>
+<a style="color:#cccccc;border-bottom:0px;" href="https://www.waveartsmagazine.com/quaranzine-blog/black-sugar-and-honey"><b>"Black Sugar and Honey"</b></a> - The Wave (2020)<br/>
+
+<b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry (print)</b><br/>
+<a style="color:#cccccc;border-bottom:0px;" href="https://sinetheta.net/19.html"><b>"An Offering at the Altar", "1988, Min River Valley"</b></a> - Sine Theta (2021)<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">nonfiction</b><br/>
 <b>Follow Your Nose</b> in <i>Design and Science</i> - Bloomsbury, forthcoming (2021)<br/>
+<a style="color:#cccccc;border-bottom:0px;" href="https://www.nybooks.com/daily/2021/03/13/honing-my-knife-skills/"><b>"Honing My Knife Skills"</b></a> - The New York Review of Books (2021)<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">expository</b><br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://towardsdatascience.com/deep-learning-research-and-how-to-get-immersed-8bab98c20577"><b>Deep Learning Research & How to Get Immersed</b></a> - Towards Data Science (2020)<br/>
