@@ -10,6 +10,7 @@ permalink: writing
 <b>Electric Heart</b> - Ghost City Press, forthcoming (2021) <br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://medium.com/oyez-review/every-body-is-an-electric-body-by-sharon-lin-edd898e3f62f"><b>"every body is an electric body"</b></a> - The Oyez Review (2021)<br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://www.waveartsmagazine.com/quaranzine-blog/black-sugar-and-honey"><b>"Black Sugar and Honey"</b></a> - The Wave (2020)<br/>
+<a style="color:#cccccc;border-bottom:0px;" href="https://billmoyers.com/story/sharon-lins-a-footnote-on-a-hollywood-blockbuster/"><b>"A Footnote on a Hollywood Blockbuster"</b></a> - Bill Moyers (2017)<br/>
 
 <b class="t-hackcss-pop" style="color:#ff2e88;border-bottom:1px solid #ff2e88;">poetry (print)</b><br/>
 <a style="color:#cccccc;border-bottom:0px;" href="https://sinetheta.net/19.html"><b>"An Offering at the Altar", "1988, Min River Valley"</b></a> - Sine Theta (2021)<br/>
